@@ -6,7 +6,7 @@ This project combines SQL database analysis with an interactive Power BI visual 
 
 ## Files Included 
 * **`stock_market_analysis.sql`** - SQL scripts for data cleaning and calculations.
-* **`stock_market_dashboard.pbix`** - Power BI desktop file for visual datacinsights.
+* **`stock_market_dashboard.pbix`** - Power BI desktop file for visual data insights.
 
 ## Dashboard Preview
 
