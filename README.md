@@ -2,7 +2,7 @@
 
 #Stock Market Analysis Project
 
-This project combines SQL database analysis with an interactive Power BI visual dashboard.
+* This project combines SQL database analysis with an interactive Power BI visual dashboard.
 
 ## Files Included 
 * **`stock_market_analysis.sql`** - SQL scripts for data cleaning and calculations.
