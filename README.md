@@ -9,3 +9,4 @@ This project combines SQL database analysis with an interactive Power BI visual 
 * **`stock_market_dashboard.pbix`** - Power BI desktop file for visual datacinsights.
 
 ## Dashboard Preview
+![Dashboard Visual] (Screenshot 2026-05-29 125106.png)
